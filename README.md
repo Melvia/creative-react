@@ -1,13 +1,9 @@
-# creative-react
-Homeworks React from Creative
+#ФИО
 Руденко Наталья
 
+#Аккаунт в телеграм
+@BUKApuma
 
-#Docker
+#Информация о проекте
 
-Создание образа
-docker build -t javascript .
-
-Запуск контейнера 
-docker run javascript
-
+ДЗ: Создать два простых компонента (функциональный и классовый) с одинаковым функционалом и условной отрисовкой
